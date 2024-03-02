@@ -1,0 +1,13 @@
+.btn-link{
+    text-align: center;
+    height: 4.44vh;
+    background-color: #46709a;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.btn-link:hover{
+    background-color: #497aac;
+}
